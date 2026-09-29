@@ -1,22 +1,31 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
+<br><br>
+
 # 👋 Hi, I'm Mehdi Bahri
 
 ### 💻 Programming Student | C++ | Algorithms & Problem Solving
 
 I'm a programming student from **Laayoune, Morocco 🇲🇦**.
 
-I'm currently focused on building a strong foundation in **programming, algorithms, problem solving, and software development**.
-I'm learning step by step through **Programming Advices by Abu Hadhoud**, while practicing what I learn through exercises and projects.
+Currently, I'm focused on building a strong foundation in **programming, algorithms, problem solving, and software development**.
 
-🎯 My current goal is simple:
+I'm learning through **Programming Advices by Abu Hadhoud**, while practicing what I learn through exercises and projects.
 
-**Learn the fundamentals well → solve problems → build real projects → keep improving.**
+🎯 **Learn the fundamentals → Solve problems → Build projects → Improve continuously.**
 
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Mehdi__Bahri-26A5E4?style=flat\&logo=telegram\&logoColor=white)](https://t.me/Mehdi_Bahri49)
+
 [![GitHub](https://img.shields.io/badge/GitHub-mehdibahri1949--sys-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mehdibahri1949-sys)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mehdibahri1949-sys\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
@@ -26,27 +35,27 @@ I'm learning step by step through **Programming Advices by Abu Hadhoud**, while 
 ## 🧑‍💻 About Me
 
 * 🎓 I'm a **programming student**
-* 💡 Currently learning **C++**, algorithms, and problem solving
-* 🧠 Building strong foundations in programming concepts
-* 🛠️ Practicing through exercises, challenges, and small projects
+* 💻 Currently learning **C++**
+* 🧠 Focused on **algorithms and problem solving**
 * 📚 Learning through **Programming Advices**
-* 🌱 Exploring the next stages of software development step by step
-* 🤝 Interested in **networking and connecting with other people interested in programming**
+* 🛠️ Practicing with exercises and projects
+* 🌱 Building strong programming foundations
+* 🤝 Interested in **networking with people interested in programming**
 * 📍 **Laayoune, Morocco 🇲🇦**
 
 ---
 
 ## 🚀 What I'm Learning
 
-### Programming
+### Programming Language
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 
-### Core Topics
+### Core Concepts
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-Problem%20Solving-orange?style=flat)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-Learning-purple?style=flat)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Learning-blue?style=flat)
-![OOP](https://img.shields.io/badge/OOP-Learning-purple?style=flat)
 
 ### Tools
 
@@ -54,13 +63,10 @@ I'm learning step by step through **Programming Advices by Abu Hadhoud**, while 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat\&logo=windows\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat\&logo=markdown\&logoColor=white)
 
 ---
 
 ## 📚 My Learning Path
-
-I'm following a structured path focused on fundamentals:
 
 ```text
 Programming Foundations
@@ -73,14 +79,12 @@ Object-Oriented Programming
         ↓
 Data Structures
         ↓
-More advanced programming concepts
+Advanced Programming Concepts
 ```
 
-My philosophy is:
+I'm taking my time to understand the fundamentals instead of rushing into advanced topics.
 
-> **Don't rush into advanced topics before mastering the fundamentals.**
-
-I prefer understanding **why something works**, practicing it, and then moving forward.
+> **Learn what matters now. Master the fundamentals. Build from there.**
 
 ---
 
@@ -89,23 +93,17 @@ I prefer understanding **why something works**, practicing it, and then moving f
 ```cpp
 class Mehdi {
 public:
-    const char* approach =
+
+    const char* learning =
         "Learn → Practice → Make mistakes → Understand → Improve";
 
+    const char* focus =
+        "Programming + Algorithms + Problem Solving";
+
     const char* goal =
-        "Build strong programming foundations and create real projects";
+        "Build strong foundations and create real projects";
 };
 ```
-
-### My current focus:
-
-* 🔹 Programming fundamentals
-* 🔹 Algorithms
-* 🔹 Problem solving
-* 🔹 C++
-* 🔹 Object-Oriented Programming
-* 🔹 Data Structures
-* 🔹 Building projects step by step
 
 ---
 
@@ -117,11 +115,7 @@ public:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibahri1949-sys&theme=tokyonight&hide_border=true" width="48%">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibahri1949-sys&layout=compact&theme=tokyonight&hide_border=true" width="45%">
 
@@ -135,7 +129,7 @@ public:
 
 💻 **GitHub:** [@mehdibahri1949-sys](https://github.com/mehdibahri1949-sys)
 
-I'm always interested in connecting with people who are learning, building, and improving in programming.
+🤝 **Open to networking and connecting with other people interested in programming and software development.**
 
 ---
 
