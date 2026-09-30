@@ -130,9 +130,25 @@ public:
 
 ## 🔗 Connect With Me
 
-📱 **Telegram:** [@Mehdi_Bahri49](https://t.me/Mehdi_Bahri49)
+<a href="https://www.linkedin.com/in/mehdi-bahri-687b3b425/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
 
-💻 **GitHub:** [@mehdibahri1949-sys](https://github.com/mehdibahri1949-sys)
+<a href="https://t.me/Mehdi_Bahri49">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+       width="30"
+       height="30"
+       alt="Telegram"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/mehdibahri1949-sys">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF"
+       width="30"
+       height="30"
+       alt="GitHub"/>
+</a>
 
 🤝 **Open to networking and connecting with other people interested in programming and software development.**
 
