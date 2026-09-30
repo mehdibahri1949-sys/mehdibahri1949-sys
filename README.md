@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./mehdi_bahri_intro.gif" alt="Hello Coders" width="90%"/>
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1e48246878b4b3382db7f0e&ts=497424&p=fs&cid=1&sig=84262f857a44aa8764258f3ae602f0d5932b329119b795c85b5b862f2c152c4b&v=0" alt="Hello Coders" width="90%"/>
 
 </div>
 
