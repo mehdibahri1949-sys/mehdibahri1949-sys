@@ -1,15 +1,9 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://github.com/mehdibahri1949-sys/mehdibahri1949-sys/blob/main/mehdi_bahri_intro.gif?raw=true" 
-        href="https://github.com/mehdibahri1949-sys" alt="Hello Coders" width="60%"/> <br>
-
-</div>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+<img src="https://github.com/mehdibahri1949-sys/mehdibahri1949-sys/blob/main/BannerBnadRkhiss.jpeg?raw=true" alt="Workspace" width="100%"/>
 
 <br><br>
 
